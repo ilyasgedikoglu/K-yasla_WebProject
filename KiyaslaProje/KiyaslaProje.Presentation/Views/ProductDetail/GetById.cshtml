@@ -1,0 +1,250 @@
+﻿@model KiyaslaProje.Common.ViewModels.ProductDetailVM
+@{
+    ViewBag.Title = "GetById";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="content-wrapper">
+    <!-- Main content -->
+    <section class="content">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="box">
+                    <div class="box-header">
+                        <h3 class="box-title">@Model.ProductId Nolu Ürün Detayı</h3>
+                    </div>
+                    <div class="box-body">
+
+                        <div class="col-md-12">
+                            <div class="col-md-4">@Html.LabelFor(m => m.CreatorId)</div>
+                            <div class="form-control">@Html.DisplayFor(Model => Model.CreatorId, new { @class = "col-md-8" })</div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.ProductId)</div>
+                                <div class="form-control">@Html.DisplayFor(Model => Model.ProductId, new { @class = "col-md-8" })</div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.Weight)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.Weight, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.IncrementalMemory)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.IncrementalMemory, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.InternalMemory)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.InternalMemory, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.ScreenSize)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.ScreenSize, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.TouchScreen)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.TouchScreen, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.ScreenResolution)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.ScreenResolution, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.Camera)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.Camera, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.FrontCamera)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.FrontCamera, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.Flash)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.Flash, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.ScreenType)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.ScreenType, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.VideoConversation)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.VideoConversation, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.GPS)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.GPS, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.OperatingSystem)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.OperatingSystem, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.OperatingType)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.OperatingType, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.BackCameraResolution)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.BackCameraResolution, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.FrontCameraResolution)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.FrontCameraResolution, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.MobileLinkSpeed)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.MobileLinkSpeed, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.MMS)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.MMS, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.SpeechTime)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.SpeechTime, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.MP3Playback)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.MP3Playback, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.NFC)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.NFC, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.DownloadGame)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.DownloadGame, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.PackageIncluded)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.PackageIncluded, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.FingerprintReader)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.FingerprintReader, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.BatteryPower)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.BatteryPower, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.BatteryType)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.BatteryType, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.EmailSupport)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.EmailSupport, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.RadioSupport)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.RadioSupport, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.RAM)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.RAM, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.VoiceReport)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.VoiceReport, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.VoiceCall)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.VoiceCall, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.AudioVideoRecording)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.AudioVideoRecording, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.TvSupport)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.TvSupport, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.Wifi)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.Wifi, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.FaceRecognition)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.FaceRecognition, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.VideoPlayback)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.VideoPlayback, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.InternalModem)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.InternalModem, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.StandbyTime)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.StandbyTime, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.DoubleLine)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.DoubleLine, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.EyeScanning)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.EyeScanning, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.Edge)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.Edge, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4">@Html.LabelFor(m => m.InternalModem)</div>
+                                    <div class="form-control">@Html.DisplayFor(m => m.InternalModem, new { @class = "col-md-8" })</div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="col-md-4"><label></label></div>
+                                    <div class="form-control, col-md-8"><input type="submit" value="Kayıt Et" /></div>
+                                </div>
+                            </div>
+                </div>
+                <!-- /.box -->
+            </div>
+            <!-- /.col -->
+        </div>
+        <!-- /.row -->
+    </section>
+    <!-- /.content -->
+</div>
+

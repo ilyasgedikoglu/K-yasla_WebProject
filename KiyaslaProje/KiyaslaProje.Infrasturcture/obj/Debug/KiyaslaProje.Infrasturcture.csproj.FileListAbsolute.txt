@@ -1,0 +1,42 @@
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\KiyaslaProje.Infrasturcture.dll.config
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\KiyaslaProje.Infrasturcture.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\KiyaslaProje.Infrasturcture.pdb
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\EntityFramework.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\KiyaslaProje.Domain.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\KiyaslaProje.Domain.pdb
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\KiyaslaProje.Domain.dll.config
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\EntityFramework.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Infrasturcture\obj\Debug\KiyaslaProje.Infrasturcture.csprojResolveAssemblyReference.cache
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Infrasturcture\obj\Debug\KiyaslaProje.Infrasturcture.csproj.CoreCompileInputs.cache
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Infrasturcture\obj\Debug\KiyaslaProje.Infrasturcture.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Infrasturcture\obj\Debug\KiyaslaProje.Infrasturcture.pdb
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Infrasturcture\obj\Debug\KiyaslaProje.Infrasturcture.Migrations.init.resources
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Infrasturcture\obj\Debug\KiyaslaProje.Infrasturcture.csproj.GenerateResource.Cache
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\KiyaslaProje.Infrasturcture.dll.config
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\KiyaslaProje.Infrasturcture.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\KiyaslaProje.Infrasturcture.pdb
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\EntityFramework.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\KiyaslaProje.Domain.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\KiyaslaProje.Domain.pdb
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\KiyaslaProje.Domain.dll.config
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\EntityFramework.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Infrasturcture\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Infrasturcture\obj\Debug\KiyaslaProje.Infrasturcture.csprojResolveAssemblyReference.cache
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Infrasturcture\obj\Debug\KiyaslaProje.Infrasturcture.Migrations.init.resources
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Infrasturcture\obj\Debug\KiyaslaProje.Infrasturcture.csproj.GenerateResource.Cache
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Infrasturcture\obj\Debug\KiyaslaProje.Infrasturcture.csproj.CoreCompileInputs.cache
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Infrasturcture\obj\Debug\KiyaslaProje.Infrasturcture.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Infrasturcture\obj\Debug\KiyaslaProje.Infrasturcture.pdb
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Infrasturcture\obj\Debug\KiyaslaProje.Infrasturcture.Migrations.init1.resources
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Infrasturcture\obj\Debug\KiyaslaProje.Infrasturcture.Migrations.init2.resources

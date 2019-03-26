@@ -1,0 +1,55 @@
+﻿@model KiyaslaProje.Common.ViewModels.CategoryVM
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+@using (Html.BeginForm("Create", "Category", FormMethod.Post))
+{
+    <div class="content-wrapper">
+        <!-- Main content -->
+        <section class="content">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="box">
+                        <div class="box-header">
+                            <h3 class="box-title">Kategori Ekle</h3>
+                        </div>
+                        <div class="box-body">
+                            <div class="col-md-12">
+                                @Html.LabelFor(m => m.PicturePath, new { @class = "col-md-4" })
+                                <div class="form-control">
+                                    <input type="file"  name="image" required class="col-md-8" />
+                                </div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.Title)</div>
+                                <div class="form-control">@Html.TextBoxFor(m => m.Title, new { @class = "col-md-8" })</div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.Detail)</div>
+                                <div class="form-control">@Html.TextBoxFor(m => m.Detail, new { @class = "col-md-8" })</div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.CreatorId)</div>
+                                <div class="form-control">@Html.DropDownListFor(m => m.CreatorId, new SelectList(ViewBag.Users, "Id", "Name"), new { @class = "col-md-8" })</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4"><label></label></div>
+                                <div class="form-control, col-md-8"><input type="submit" value="Kayıt Et" /></div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.box -->
+                </div>
+                <!-- /.col -->
+            </div>
+            <!-- /.row -->
+        </section>
+        <!-- /.content -->
+    </div>
+}
+
+

@@ -1,0 +1,57 @@
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\bin\Debug\KiyaslaProje.Service.dll.config
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\bin\Debug\KiyaslaProje.Service.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\bin\Debug\KiyaslaProje.Service.pdb
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\bin\Debug\EntityFramework.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\bin\Debug\KiyaslaProje.Common.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\bin\Debug\KiyaslaProje.Domain.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\bin\Debug\KiyaslaProje.Infrasturcture.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\bin\Debug\Ninject.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\bin\Debug\AutoMapper.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\bin\Debug\KiyaslaProje.Common.pdb
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\bin\Debug\KiyaslaProje.Domain.pdb
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\bin\Debug\KiyaslaProje.Domain.dll.config
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\bin\Debug\KiyaslaProje.Infrasturcture.pdb
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\bin\Debug\KiyaslaProje.Infrasturcture.dll.config
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\bin\Debug\EntityFramework.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\bin\Debug\Ninject.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\bin\Debug\AutoMapper.pdb
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\bin\Debug\AutoMapper.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\obj\Debug\KiyaslaProje.Service.csprojResolveAssemblyReference.cache
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\obj\Debug\KiyaslaProje.Service.csproj.CoreCompileInputs.cache
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\obj\Debug\KiyaslaProje.Service.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Service\obj\Debug\KiyaslaProje.Service.pdb
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\bin\Debug\KiyaslaProje.Service.dll.config
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\bin\Debug\KiyaslaProje.Service.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\bin\Debug\KiyaslaProje.Service.pdb
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\bin\Debug\EntityFramework.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\bin\Debug\KiyaslaProje.Common.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\bin\Debug\KiyaslaProje.Domain.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\bin\Debug\KiyaslaProje.Infrasturcture.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\bin\Debug\Ninject.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\bin\Debug\AutoMapper.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\bin\Debug\KiyaslaProje.Common.pdb
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\bin\Debug\KiyaslaProje.Domain.pdb
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\bin\Debug\KiyaslaProje.Domain.dll.config
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\bin\Debug\KiyaslaProje.Infrasturcture.pdb
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\bin\Debug\KiyaslaProje.Infrasturcture.dll.config
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\bin\Debug\EntityFramework.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\bin\Debug\Ninject.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\bin\Debug\AutoMapper.pdb
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\bin\Debug\AutoMapper.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\obj\Debug\KiyaslaProje.Service.csprojResolveAssemblyReference.cache
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\obj\Debug\KiyaslaProje.Service.csproj.CoreCompileInputs.cache
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\obj\Debug\KiyaslaProje.Service.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\obj\Debug\KiyaslaProje.Service.pdb
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Service\bin\Debug\AutoMapper.Net4.dll

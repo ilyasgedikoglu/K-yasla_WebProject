@@ -1,0 +1,255 @@
+﻿@model KiyaslaProje.Common.ViewModels.ProductDetailVM
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+@using (Html.BeginForm("Create", "ProductDetail", FormMethod.Post))
+{
+    <div class="content-wrapper">
+        <!-- Main content -->
+        <section class="content">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="box">
+                        <div class="box-header">
+                            <h3 class="box-title">Ürün Detayı Ekle</h3>
+                        </div>
+                        <div class="box-body">
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.CreatorId)</div>
+                                <div class="form-control">@Html.DropDownListFor(m => m.CreatorId, new SelectList(ViewBag.Users, "Id", "Name"), new { @class = "col-md-8" })</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.ProductId)</div>
+                                <div class="form-control">@Html.DropDownListFor(m => m.ProductId, new SelectList(ViewBag.Products, "Id", "Title"), new { @class = "col-md-8" })</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.Weight)</div>
+                                <div class="form-control">@Html.TextBoxFor(m => m.Weight, new { @class = "col-md-8" })</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.IncrementalMemory)</div>
+                                <div class="form-control">@Html.RadioButtonFor(m => m.IncrementalMemory, true)</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.InternalMemory)</div>
+                                <div class="form-control">@Html.TextBoxFor(m => m.InternalMemory, new { @class = "col-md-8" })</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.ScreenSize)</div>
+                                <div class="form-control">@Html.TextBoxFor(m => m.ScreenSize, new { @class = "col-md-8" })</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.TouchScreen)</div>
+                                <div class="form-control">@Html.RadioButtonFor(m => m.TouchScreen, true)</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.ScreenResolution)</div>
+                                <div class="form-control">@Html.TextBoxFor(m => m.ScreenResolution, new { @class = "col-md-8" })</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.Camera)</div>
+                                <div class="form-control">@Html.RadioButtonFor(m => m.Camera, true)</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.FrontCamera)</div>
+                                <div class="form-control">@Html.RadioButtonFor(m => m.FrontCamera, true)</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.Flash)</div>
+                                <div class="form-control">@Html.RadioButtonFor(m => m.Flash, true)</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.ScreenType)</div>
+                                <div class="form-control">@Html.TextBoxFor(m => m.ScreenType, new { @class = "col-md-8" })</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.VideoConversation)</div>
+                                <div class="form-control">@Html.RadioButtonFor(m => m.VideoConversation, true)</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.GPS)</div>
+                                <div class="form-control">@Html.RadioButtonFor(m => m.GPS, true)</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.OperatingSystem)</div>
+                                <div class="form-control">@Html.TextBoxFor(m => m.OperatingSystem, new { @class = "col-md-8" })</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.OperatingType)</div>
+                                <div class="form-control">@Html.TextBoxFor(m => m.OperatingType, new { @class = "col-md-8" })</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.BackCameraResolution)</div>
+                                <div class="form-control">@Html.TextBoxFor(m => m.BackCameraResolution, new { @class = "col-md-8" })</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.FrontCameraResolution)</div>
+                                <div class="form-control">@Html.TextBoxFor(m => m.FrontCameraResolution, new { @class = "col-md-8" })</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.MobileLinkSpeed)</div>
+                                <div class="form-control">@Html.TextBoxFor(m => m.MobileLinkSpeed, new { @class = "col-md-8" })</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.MMS)</div>
+                                <div class="form-control">@Html.RadioButtonFor(m => m.MMS, true)</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.SpeechTime)</div>
+                                <div class="form-control">@Html.TextBoxFor(m => m.SpeechTime, new { @class = "col-md-8" })</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.MP3Playback)</div>
+                                <div class="form-control">@Html.RadioButtonFor(m => m.MP3Playback, true)</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.NFC)</div>
+                                <div class="form-control">@Html.RadioButtonFor(m => m.NFC, true)</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.DownloadGame)</div>
+                                <div class="form-control">@Html.RadioButtonFor(m => m.DownloadGame, true)</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.PackageIncluded)</div>
+                                <div class="form-control">@Html.TextBoxFor(m => m.PackageIncluded, new { @class = "col-md-8" })</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.FingerprintReader)</div>
+                                <div class="form-control">@Html.RadioButtonFor(m => m.FingerprintReader, true)</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.BatteryPower)</div>
+                                <div class="form-control">@Html.TextBoxFor(m => m.BatteryPower, new { @class = "col-md-8" })</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.BatteryType)</div>
+                                <div class="form-control">@Html.TextBoxFor(m => m.BatteryType, new { @class = "col-md-8" })</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.EmailSupport)</div>
+                                <div class="form-control">@Html.RadioButtonFor(m => m.EmailSupport, true)</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.RadioSupport)</div>
+                                <div class="form-control">@Html.RadioButtonFor(m => m.RadioSupport, true)</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.RAM)</div>
+                                <div class="form-control">@Html.TextBoxFor(m => m.RAM, new { @class = "col-md-8" })</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.VoiceReport)</div>
+                                <div class="form-control">@Html.RadioButtonFor(m => m.VoiceReport, true)</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.VoiceCall)</div>
+                                <div class="form-control">@Html.RadioButtonFor(m => m.VoiceCall, true)</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.AudioVideoRecording)</div>
+                                <div class="form-control">@Html.RadioButtonFor(m => m.AudioVideoRecording, true)</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.TvSupport)</div>
+                                <div class="form-control">@Html.RadioButtonFor(m => m.TvSupport, true)</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.Wifi)</div>
+                                <div class="form-control">@Html.TextBoxFor(m => m.Wifi, new { @class = "col-md-8" })</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.FaceRecognition)</div>
+                                <div class="form-control">@Html.RadioButtonFor(m => m.FaceRecognition, true)</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.VideoPlayback)</div>
+                                <div class="form-control">@Html.RadioButtonFor(m => m.VideoPlayback, true)</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.InternalModem)</div>
+                                <div class="form-control">@Html.RadioButtonFor(m => m.InternalModem, true)</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.StandbyTime)</div>
+                                <div class="form-control">@Html.TextBoxFor(m => m.StandbyTime, new { @class = "col-md-8" })</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.DoubleLine)</div>
+                                <div class="form-control">@Html.RadioButtonFor(m => m.DoubleLine, true)</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.EyeScanning)</div>
+                                <div class="form-control">@Html.RadioButtonFor(m => m.EyeScanning, true)</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.Edge)</div>
+                                <div class="form-control">@Html.RadioButtonFor(m => m.Edge, true)</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4">@Html.LabelFor(m => m.InternalModem)</div>
+                                <div class="form-control">@Html.RadioButtonFor(m => m.InternalModem, true)</div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="col-md-4"><label></label></div>
+                                <div class="form-control, col-md-8"><input type="submit" value="Kayıt Et" /></div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.box -->
+                </div>
+                <!-- /.col -->
+            </div>
+            <!-- /.row -->
+        </section>
+        <!-- /.content -->
+    </div>
+}
+

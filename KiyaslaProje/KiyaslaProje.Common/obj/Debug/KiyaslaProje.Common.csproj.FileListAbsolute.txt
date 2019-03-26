@@ -1,0 +1,40 @@
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Common\bin\Debug\AutoMapper.Net4.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Common\bin\Debug\KiyaslaProje.Common.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Common\bin\Debug\KiyaslaProje.Common.pdb
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Common\bin\Debug\AutoMapper.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Common\bin\Debug\KiyaslaProje.Domain.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Common\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Common\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Common\bin\Debug\EntityFramework.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Common\bin\Debug\KiyaslaProje.Domain.pdb
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Common\bin\Debug\KiyaslaProje.Domain.dll.config
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Common\bin\Debug\AutoMapper.pdb
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Common\bin\Debug\AutoMapper.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Common\bin\Debug\AutoMapper.Net4.pdb
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Common\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Common\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Common\bin\Debug\EntityFramework.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Common\obj\Debug\KiyaslaProje.Common.csprojResolveAssemblyReference.cache
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Common\obj\Debug\KiyaslaProje.Common.csproj.CoreCompileInputs.cache
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Common\obj\Debug\KiyaslaProje.Common.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Common\obj\Debug\KiyaslaProje.Common.pdb
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Common\bin\Debug\AutoMapper.Net4.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Common\bin\Debug\KiyaslaProje.Common.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Common\bin\Debug\KiyaslaProje.Common.pdb
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Common\bin\Debug\AutoMapper.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Common\bin\Debug\KiyaslaProje.Domain.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Common\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Common\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Common\bin\Debug\EntityFramework.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Common\bin\Debug\KiyaslaProje.Domain.pdb
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Common\bin\Debug\KiyaslaProje.Domain.dll.config
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Common\bin\Debug\AutoMapper.pdb
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Common\bin\Debug\AutoMapper.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Common\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Common\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Common\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Common\bin\Debug\EntityFramework.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Common\obj\Debug\KiyaslaProje.Common.csprojResolveAssemblyReference.cache
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Common\obj\Debug\KiyaslaProje.Common.csproj.CoreCompileInputs.cache
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Common\obj\Debug\KiyaslaProje.Common.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Common\obj\Debug\KiyaslaProje.Common.pdb

@@ -1,0 +1,150 @@
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Presentation.dll.config
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Presentation.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Presentation.pdb
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Antlr3.Runtime.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\EntityFramework.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\EntityFramework.SqlServer.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.Owin.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.Owin.Security.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.Web.Infrastructure.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Owin.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Helpers.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Mvc.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Razor.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Webpages.Deployment.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Webpages.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Webpages.Razor.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Antlr3.Runtime.pdb
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\EntityFramework.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\EntityFramework.SqlServer.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.Owin.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.Owin.Security.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Razor.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Webpages.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Webpages.Deployment.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Webpages.Razor.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Helpers.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Mvc.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\obj\Debug\KiyaslaProje.Presentation.csprojResolveAssemblyReference.cache
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\obj\Debug\KiyaslaProje.Presentation.csproj.CoreCompileInputs.cache
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\obj\Debug\KiyaslaProje.Presentation.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\obj\Debug\KiyaslaProje.Presentation.pdb
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Domain.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Service.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Newtonsoft.Json.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Ninject.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Ninject.Web.Common.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Ninject.Web.Common.WebHost.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Ninject.Web.Mvc.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Optimization.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\WebActivatorEx.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\WebGrease.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Common.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Infrasturcture.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\AutoMapper.dll
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Domain.pdb
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Domain.dll.config
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Service.pdb
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Service.dll.config
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Newtonsoft.Json.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Ninject.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Ninject.Web.Common.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Ninject.Web.Common.WebHost.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\Ninject.Web.Mvc.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Optimization.xml
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Common.pdb
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Infrasturcture.pdb
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Infrasturcture.dll.config
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\AutoMapper.pdb
+c:\users\igedi\source\repos\KiyaslaProje\KiyaslaProje.Presentation\bin\AutoMapper.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Presentation.dll.config
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Presentation.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Presentation.pdb
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\EntityFramework.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Common.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Domain.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Infrasturcture.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Service.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.Owin.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.Owin.Security.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Ninject.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Ninject.Web.Common.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Ninject.Web.Mvc.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Owin.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Helpers.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Mvc.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Optimization.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Razor.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Webpages.Deployment.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Webpages.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Webpages.Razor.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\WebActivatorEx.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\WebGrease.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\AutoMapper.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Common.pdb
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Domain.pdb
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Domain.dll.config
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Infrasturcture.pdb
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Infrasturcture.dll.config
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Service.pdb
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\KiyaslaProje.Service.dll.config
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\EntityFramework.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.Owin.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.Owin.Security.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Ninject.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Ninject.Web.Common.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\Ninject.Web.Mvc.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Optimization.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Razor.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Webpages.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Webpages.Deployment.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Webpages.Razor.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Helpers.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\System.Web.Mvc.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\AutoMapper.pdb
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\bin\AutoMapper.xml
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\obj\Debug\KiyaslaProje.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\obj\Debug\KiyaslaProje.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\obj\Debug\KiyaslaProje.Presentation.dll
+C:\Users\igedi\Desktop\BİLGİADAM PROJELER\KiyaslaProje\KiyaslaProje.Presentation\obj\Debug\KiyaslaProje.Presentation.pdb

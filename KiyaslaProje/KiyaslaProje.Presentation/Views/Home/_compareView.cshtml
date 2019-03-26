@@ -1,0 +1,23 @@
+﻿@model KiyaslaProje.Common.ViewModels.CompareVM
+
+<div class="maincontent-area">
+    <div class="zigzag-bottom"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div><label style="color:red"><span>KARŞILAŞTIR</span></label></div>
+            </div>
+            <div class="col-md-12">
+                <div>@Html.DropDownListFor(m => m.Product1Id, new SelectList(ViewBag.Products, "Id", "Title"), new { @class = "col-md-12" })</div>
+            </div>
+            <br />
+            <div class="col-md-12">
+                <div>@Html.DropDownListFor(m => m.Product2Id, new SelectList(ViewBag.Products, "Id", "Title"), new { @class = "col-md-12" })</div>
+            </div>
+            <br />
+            <div class="col-md-12">
+                <div><input type="submit" value="Kıyasla" /></div>
+            </div>
+        </div>
+    </div>
+</div>
